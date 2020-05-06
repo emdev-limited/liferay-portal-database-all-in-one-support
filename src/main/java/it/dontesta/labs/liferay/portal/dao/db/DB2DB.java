@@ -18,6 +18,7 @@ import java.io.IOException;
 import java.sql.SQLException;
 import java.sql.Types;
 
+import com.liferay.petra.string.CharPool;
 import com.liferay.portal.dao.db.BaseDB;
 import com.liferay.portal.kernel.dao.db.DBType;
 import com.liferay.portal.kernel.io.unsync.UnsyncBufferedReader;
